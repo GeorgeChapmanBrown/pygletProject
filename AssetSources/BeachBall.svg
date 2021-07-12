@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1392"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="BeachBall.svg">
+  <defs
+     id="defs1386">
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6475"
+       id="radialGradient7905"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.94486741,0,0.56262258)"
+       cx="20.441572"
+       cy="10.204901"
+       fx="20.441572"
+       fy="10.204901"
+       r="5.7387276" />
+    <linearGradient
+       id="linearGradient6475"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop6471" />
+      <stop
+         style="stop-color:#fffffb;stop-opacity:0.92941177"
+         offset="1"
+         id="stop6473" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter7555"
+       x="-0.31179157"
+       width="1.6235831"
+       y="-0.34244463"
+       height="1.6848893">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.9183838"
+         id="feGaussianBlur7557" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6475"
+       id="radialGradient7907"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.94486741,0,0.56262258)"
+       cx="20.441572"
+       cy="10.204901"
+       fx="20.441572"
+       fy="10.204901"
+       r="5.7387276" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6475"
+       id="radialGradient7909-9"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.94486741,207.21769,3.6285258)"
+       cx="20.441572"
+       cy="10.204901"
+       fx="20.441572"
+       fy="10.204901"
+       r="5.7387276" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter7555-1"
+       x="-0.31179157"
+       width="1.6235831"
+       y="-0.34244463"
+       height="1.6848893">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.9183838"
+         id="feGaussianBlur7557-2" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6475"
+       id="radialGradient7909"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.94486741,0,0.56262258)"
+       cx="20.441572"
+       cy="10.204901"
+       fx="20.441572"
+       fy="10.204901"
+       r="5.7387276" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6475"
+       id="radialGradient7911"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.94486741,0,0.56262258)"
+       cx="20.441572"
+       cy="10.204901"
+       fx="20.441572"
+       fy="10.204901"
+       r="5.7387276" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6475"
+       id="radialGradient7913-4-5-7"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.94486743,505.78451,9.7757237)"
+       cx="20.441572"
+       cy="10.204901"
+       fx="20.441572"
+       fy="10.204901"
+       r="5.7387276" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter7555-5-4-3"
+       x="-0.31179157"
+       width="1.6235831"
+       y="-0.34244463"
+       height="1.6848893">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.9183838"
+         id="feGaussianBlur7557-4-8-2" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6475"
+       id="radialGradient7913-4-5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.94486742,441.05097,9.5868053)"
+       cx="20.441572"
+       cy="10.204901"
+       fx="20.441572"
+       fy="10.204901"
+       r="5.7387276" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter7555-5-4"
+       x="-0.31179157"
+       width="1.6235831"
+       y="-0.34244463"
+       height="1.6848893">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.9183838"
+         id="feGaussianBlur7557-4-8" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6475"
+       id="radialGradient7913-4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.94486741,378.00291,4.8312384)"
+       cx="20.441572"
+       cy="10.204901"
+       fx="20.441572"
+       fy="10.204901"
+       r="5.7387276" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter7555-5"
+       x="-0.31179157"
+       width="1.6235831"
+       y="-0.34244463"
+       height="1.6848893">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.9183838"
+         id="feGaussianBlur7557-4" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6475"
+       id="radialGradient7913"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.94486741,0,0.56262258)"
+       cx="20.441572"
+       cy="10.204901"
+       fx="20.441572"
+       fy="10.204901"
+       r="5.7387276" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6475"
+       id="radialGradient8608"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.94486741,429.95677,3.5391859)"
+       cx="20.441572"
+       cy="10.204901"
+       fx="20.441572"
+       fy="10.204901"
+       r="5.7387276" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6475"
+       id="radialGradient7903-7"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.94486741,0,0.56262258)"
+       cx="20.441572"
+       cy="10.204901"
+       fx="20.441572"
+       fy="10.204901"
+       r="5.7387276" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter7555-6"
+       x="-0.31179157"
+       width="1.6235831"
+       y="-0.34244463"
+       height="1.6848893">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.9183838"
+         id="feGaussianBlur7557-0" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6475"
+       id="radialGradient7903"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.94486741,0,0.56262258)"
+       cx="20.441572"
+       cy="10.204901"
+       fx="20.441572"
+       fy="10.204901"
+       r="5.7387276" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="1243.0699"
+     inkscape:cy="595.68418"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="true" />
+  <metadata
+     id="metadata1389">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       style="display:inline"
+       id="g7887"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(4.0525904,47.967775)"
+       inkscape:export-filename="C:\Users\George\Documents\PygletGame\pygletProject\Assets\BeachBall.png">
+      <g
+         transform="rotate(151.59201,37.560913,71.735515)"
+         id="g6806"
+         style="display:inline;opacity:1">
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle6796"
+           cx="26.86879"
+           cy="119.6077"
+           r="23.720171" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6798"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 41.902706,111.99053 a 3.2740517,3.2740517 0 0 1 -3.274052,3.27405 3.2740517,3.2740517 0 0 1 -3.274051,-3.27405 3.2740517,3.2740517 0 0 1 3.274051,-3.27405 3.2740517,3.2740517 0 0 1 3.274052,3.27405 z" />
+        <path
+           inkscape:transform-center-y="16.714758"
+           inkscape:transform-center-x="12.999483"
+           sodipodi:nodetypes="cccccccc"
+           inkscape:connector-curvature="0"
+           d="m 36.125095,114.1253 c -2.54351,1.05664 -5.255873,3.15894 -7.374061,4.99391 -1.682312,1.63258 -3.579417,3.03203 -5.185518,4.74548 -2.280402,2.32881 -3.783386,5.24143 -5.338286,8.06919 -1.942597,2.33922 -2.60676,5.4084 -4.221947,7.88671 5.895188,2.93916 12.167499,4.30697 19.129623,2.80056 5.315754,-7.97998 4.959417,-18.09911 5.480652,-27.33242 -1.216716,-0.0657 -1.964966,-0.66956 -2.490463,-1.16343 z"
+           style="fill:#ff0000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path6800" />
+        <path
+           inkscape:transform-center-y="2.7738943"
+           inkscape:transform-center-x="-8.8994022"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           d="m 40.790155,114.3408 c 6.106245,5.541 7.453555,6.54849 9.262694,10.04712 0.721022,-3.38772 0.920358,-10.43437 -1.920293,-15.36204 -2.464111,-0.30996 -5.932695,0.61438 -6.753013,1.47739 0.721149,1.13652 0.858526,2.3997 -0.589388,3.83753 z"
+           style="fill:#0000ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path6802" />
+        <path
+           id="path6804"
+           style="fill:#ffff00;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 38.707398,108.77969 c -0.204657,-7.00266 0.529369,-7.57838 -1.954389,-10.682701 -7.420609,-3.185938 -14.712597,-2.447128 -19.43654,-0.24586 5.18222,1.94509 11.945654,4.513871 18.238232,12.786371 1.413512,-1.64737 1.631927,-1.74852 3.152697,-1.85781 z"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-x="6.8581998"
+           inkscape:transform-center-y="-8.8024278" />
+      </g>
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="rect837"
+         d="m 20.35599,7.1817569 c 1.450692,0.7267326 2.636536,1.6006035 3.287559,2.771597 0.705924,1.1733811 0.26551,1.3984971 -1.105256,3.4697621 -1.422974,-1.850866 -3.317524,-3.37163 -5.631326,-4.5989161 1.394332,-1.4164422 1.895712,-2.2353615 3.44902,-1.642439 z"
+         style="fill:url(#radialGradient7903);fill-opacity:1;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter7555)" />
+      <rect
+         y="0.66666663"
+         x="0.37797621"
+         height="47.719494"
+         width="47.719494"
+         id="rect6461"
+         style="fill:none;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <g
+       style="display:inline"
+       id="g7887-5"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(616.333,47.967775)"
+       inkscape:export-filename="C:\Users\George\Documents\PygletGame\pygletProject\Assets\BeachBall.png">
+      <g
+         transform="rotate(151.59201,37.560913,71.735515)"
+         id="g6806-3"
+         style="display:inline;opacity:1">
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle6796-9"
+           cx="26.86879"
+           cy="119.6077"
+           r="23.720171" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6798-8"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 41.902706,111.99053 a 3.2740517,3.2740517 0 0 1 -3.274052,3.27405 3.2740517,3.2740517 0 0 1 -3.274051,-3.27405 3.2740517,3.2740517 0 0 1 3.274051,-3.27405 3.2740517,3.2740517 0 0 1 3.274052,3.27405 z" />
+        <path
+           inkscape:transform-center-y="16.714758"
+           inkscape:transform-center-x="12.999483"
+           sodipodi:nodetypes="cccccccc"
+           inkscape:connector-curvature="0"
+           d="m 36.125095,114.1253 c -2.54351,1.05664 -5.255873,3.15894 -7.374061,4.99391 -1.682312,1.63258 -3.579417,3.03203 -5.185518,4.74548 -2.280402,2.32881 -3.783386,5.24143 -5.338286,8.06919 -1.942597,2.33922 -2.60676,5.4084 -4.221947,7.88671 5.895188,2.93916 12.167499,4.30697 19.129623,2.80056 5.315754,-7.97998 4.959417,-18.09911 5.480652,-27.33242 -1.216716,-0.0657 -1.964966,-0.66956 -2.490463,-1.16343 z"
+           style="fill:#ff0000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path6800-0" />
+        <path
+           inkscape:transform-center-y="2.7738943"
+           inkscape:transform-center-x="-8.8994022"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           d="m 40.790155,114.3408 c 6.106245,5.541 7.453555,6.54849 9.262694,10.04712 0.721022,-3.38772 0.920358,-10.43437 -1.920293,-15.36204 -2.464111,-0.30996 -5.932695,0.61438 -6.753013,1.47739 0.721149,1.13652 0.858526,2.3997 -0.589388,3.83753 z"
+           style="fill:#0000ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path6802-9" />
+        <path
+           id="path6804-7"
+           style="fill:#ffff00;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 38.707398,108.77969 c -0.204657,-7.00266 0.529369,-7.57838 -1.954389,-10.682701 -7.420609,-3.185938 -14.712597,-2.447128 -19.43654,-0.24586 5.18222,1.94509 11.945654,4.513871 18.238232,12.786371 1.413512,-1.64737 1.631927,-1.74852 3.152697,-1.85781 z"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-x="6.8581998"
+           inkscape:transform-center-y="-8.8024278" />
+      </g>
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="rect837-1"
+         d="m 20.35599,7.1817569 c 1.450692,0.7267326 2.636536,1.6006035 3.287559,2.771597 0.705924,1.1733811 0.26551,1.3984971 -1.105256,3.4697621 -1.422974,-1.850866 -3.317524,-3.37163 -5.631326,-4.5989161 1.394332,-1.4164422 1.895712,-2.2353615 3.44902,-1.642439 z"
+         style="fill:url(#radialGradient7903-7);fill-opacity:1;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter7555-6)" />
+      <rect
+         y="0.66666663"
+         x="0.37797621"
+         height="47.719494"
+         width="47.719494"
+         id="rect6461-3"
+         style="fill:none;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <g
+       style="display:inline;opacity:0.97000002"
+       id="g8626"
+       transform="translate(130.71924,44.979166)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\George\Documents\PygletGame\pygletProject\Assets\BeachBall.png">
+      <g
+         style="display:inline;opacity:1"
+         id="g7609"
+         transform="rotate(121.59201,266.27153,192.98773)">
+        <circle
+           r="23.720171"
+           cy="119.6077"
+           cx="26.86879"
+           id="circle7599"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           d="m 41.902706,111.99053 a 3.2740517,3.2740517 0 0 1 -3.274052,3.27405 3.2740517,3.2740517 0 0 1 -3.274051,-3.27405 3.2740517,3.2740517 0 0 1 3.274051,-3.27405 3.2740517,3.2740517 0 0 1 3.274052,3.27405 z"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path7601"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7603"
+           style="fill:#ff0000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 36.125095,114.1253 c -2.54351,1.05664 -5.255873,3.15894 -7.374061,4.99391 -1.682312,1.63258 -3.579417,3.03203 -5.185518,4.74548 -2.280402,2.32881 -3.783386,5.24143 -5.338286,8.06919 -1.942597,2.33922 -2.60676,5.4084 -4.221947,7.88671 5.895188,2.93916 12.167499,4.30697 19.129623,2.80056 5.315754,-7.97998 4.959417,-18.09911 5.480652,-27.33242 -1.216716,-0.0657 -1.964966,-0.66956 -2.490463,-1.16343 z"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccc"
+           inkscape:transform-center-x="12.999483"
+           inkscape:transform-center-y="16.714758" />
+        <path
+           id="path7605"
+           style="fill:#0000ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 40.790155,114.3408 c 6.106245,5.541 7.453555,6.54849 9.262694,10.04712 0.721022,-3.38772 0.920358,-10.43437 -1.920293,-15.36204 -2.464111,-0.30996 -5.932695,0.61438 -6.753013,1.47739 0.721149,1.13652 0.858526,2.3997 -0.589388,3.83753 z"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-x="-8.8994022"
+           inkscape:transform-center-y="2.7738943" />
+        <path
+           inkscape:transform-center-y="-8.8024278"
+           inkscape:transform-center-x="6.8581998"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           d="m 38.707398,108.77969 c -0.204657,-7.00266 0.529369,-7.57838 -1.954389,-10.682701 -7.420609,-3.185938 -14.712597,-2.447128 -19.43654,-0.24586 5.18222,1.94509 11.945654,4.513871 18.238232,12.786371 1.413512,-1.64737 1.631927,-1.74852 3.152697,-1.85781 z"
+           style="fill:#ffff00;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path7607" />
+      </g>
+      <path
+         style="fill:url(#radialGradient8608);fill-opacity:1;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter7555)"
+         d="m 450.31276,10.15832 c 1.45069,0.726733 2.63654,1.600604 3.28756,2.771597 0.70592,1.173381 0.26551,1.398497 -1.10526,3.469762 -1.42297,-1.850866 -3.31752,-3.37163 -5.63132,-4.598916 1.39433,-1.416442 1.89571,-2.2353613 3.44902,-1.642439 z"
+         id="path7611"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <rect
+         style="fill:none;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect7613"
+         width="47.719494"
+         height="47.719494"
+         x="430.33475"
+         y="3.64323" />
+    </g>
+    <g
+       style="display:inline"
+       id="g7847"
+       transform="translate(337.99455,47.955729)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\George\Documents\PygletGame\pygletProject\Assets\BeachBall.png">
+      <g
+         transform="rotate(1.59201,3448.7641,-23.163466)"
+         id="g7719"
+         style="display:inline;opacity:1">
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle7709"
+           cx="26.86879"
+           cy="119.6077"
+           r="23.720171" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7711"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 41.902706,111.99053 a 3.2740517,3.2740517 0 0 1 -3.274052,3.27405 3.2740517,3.2740517 0 0 1 -3.274051,-3.27405 3.2740517,3.2740517 0 0 1 3.274051,-3.27405 3.2740517,3.2740517 0 0 1 3.274052,3.27405 z" />
+        <path
+           inkscape:transform-center-y="16.714758"
+           inkscape:transform-center-x="12.999483"
+           sodipodi:nodetypes="cccccccc"
+           inkscape:connector-curvature="0"
+           d="m 36.125095,114.1253 c -2.54351,1.05664 -5.255873,3.15894 -7.374061,4.99391 -1.682312,1.63258 -3.579417,3.03203 -5.185518,4.74548 -2.280402,2.32881 -3.783386,5.24143 -5.338286,8.06919 -1.942597,2.33922 -2.60676,5.4084 -4.221947,7.88671 5.895188,2.93916 12.167499,4.30697 19.129623,2.80056 5.315754,-7.97998 4.959417,-18.09911 5.480652,-27.33242 -1.216716,-0.0657 -1.964966,-0.66956 -2.490463,-1.16343 z"
+           style="fill:#ff0000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path7713" />
+        <path
+           inkscape:transform-center-y="2.7738943"
+           inkscape:transform-center-x="-8.8994022"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           d="m 40.790155,114.3408 c 6.106245,5.541 7.453555,6.54849 9.262694,10.04712 0.721022,-3.38772 0.920358,-10.43437 -1.920293,-15.36204 -2.464111,-0.30996 -5.932695,0.61438 -6.753013,1.47739 0.721149,1.13652 0.858526,2.3997 -0.589388,3.83753 z"
+           style="fill:#0000ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path7715" />
+        <path
+           id="path7717"
+           style="fill:#ffff00;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 38.707398,108.77969 c -0.204657,-7.00266 0.529369,-7.57838 -1.954389,-10.682701 -7.420609,-3.185938 -14.712597,-2.447128 -19.43654,-0.24586 5.18222,1.94509 11.945654,4.513871 18.238232,12.786371 1.413512,-1.64737 1.631927,-1.74852 3.152697,-1.85781 z"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-x="6.8581998"
+           inkscape:transform-center-y="-8.8024278" />
+      </g>
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path7721"
+         d="m 20.35599,7.1817569 c 1.450692,0.7267326 2.636536,1.6006035 3.287559,2.771597 0.705924,1.1733811 0.26551,1.3984971 -1.105256,3.4697621 -1.422974,-1.850866 -3.317524,-3.37163 -5.631326,-4.5989161 1.394332,-1.4164422 1.895712,-2.2353615 3.44902,-1.642439 z"
+         style="fill:url(#radialGradient7913);fill-opacity:1;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter7555)" />
+      <rect
+         y="0.66666663"
+         x="0.37797621"
+         height="47.719494"
+         width="47.719494"
+         id="rect7723"
+         style="fill:none;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <g
+       style="display:inline"
+       id="g8332"
+       transform="translate(15.648634,43.687114)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\George\Documents\PygletGame\pygletProject\Assets\BeachBall.png">
+      <g
+         transform="rotate(31.59201,375.12651,737.59929)"
+         id="g7719-5"
+         style="display:inline;opacity:1">
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle7709-3"
+           cx="26.86879"
+           cy="119.6077"
+           r="23.720171" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7711-8"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 41.902706,111.99053 a 3.2740517,3.2740517 0 0 1 -3.274052,3.27405 3.2740517,3.2740517 0 0 1 -3.274051,-3.27405 3.2740517,3.2740517 0 0 1 3.274051,-3.27405 3.2740517,3.2740517 0 0 1 3.274052,3.27405 z" />
+        <path
+           inkscape:transform-center-y="16.714758"
+           inkscape:transform-center-x="12.999483"
+           sodipodi:nodetypes="cccccccc"
+           inkscape:connector-curvature="0"
+           d="m 36.125095,114.1253 c -2.54351,1.05664 -5.255873,3.15894 -7.374061,4.99391 -1.682312,1.63258 -3.579417,3.03203 -5.185518,4.74548 -2.280402,2.32881 -3.783386,5.24143 -5.338286,8.06919 -1.942597,2.33922 -2.60676,5.4084 -4.221947,7.88671 5.895188,2.93916 12.167499,4.30697 19.129623,2.80056 5.315754,-7.97998 4.959417,-18.09911 5.480652,-27.33242 -1.216716,-0.0657 -1.964966,-0.66956 -2.490463,-1.16343 z"
+           style="fill:#ff0000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path7713-9" />
+        <path
+           inkscape:transform-center-y="2.7738943"
+           inkscape:transform-center-x="-8.8994022"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           d="m 40.790155,114.3408 c 6.106245,5.541 7.453555,6.54849 9.262694,10.04712 0.721022,-3.38772 0.920358,-10.43437 -1.920293,-15.36204 -2.464111,-0.30996 -5.932695,0.61438 -6.753013,1.47739 0.721149,1.13652 0.858526,2.3997 -0.589388,3.83753 z"
+           style="fill:#0000ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path7715-9" />
+        <path
+           id="path7717-7"
+           style="fill:#ffff00;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 38.707398,108.77969 c -0.204657,-7.00266 0.529369,-7.57838 -1.954389,-10.682701 -7.420609,-3.185938 -14.712597,-2.447128 -19.43654,-0.24586 5.18222,1.94509 11.945654,4.513871 18.238232,12.786371 1.413512,-1.64737 1.631927,-1.74852 3.152697,-1.85781 z"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-x="6.8581998"
+           inkscape:transform-center-y="-8.8024278" />
+      </g>
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path7721-9"
+         d="m 398.3589,11.450373 c 1.45069,0.726732 2.63654,1.600603 3.28756,2.771597 0.70592,1.173381 0.26551,1.398497 -1.10526,3.469762 -1.42297,-1.850866 -3.31752,-3.37163 -5.63132,-4.598916 1.39433,-1.416442 1.89571,-2.235362 3.44902,-1.642439 z"
+         style="fill:url(#radialGradient7913-4);fill-opacity:1;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter7555-5)" />
+      <rect
+         y="4.9352822"
+         x="378.38089"
+         height="47.719494"
+         width="47.719494"
+         id="rect7723-0"
+         style="fill:none;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <g
+       style="display:inline"
+       id="g8408"
+       transform="translate(8.3110735,38.931546)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\George\Documents\PygletGame\pygletProject\Assets\BeachBall.png">
+      <g
+         transform="rotate(61.592009,318.29899,444.33247)"
+         id="g7719-5-2"
+         style="display:inline;opacity:1">
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle7709-3-3"
+           cx="26.86879"
+           cy="119.6077"
+           r="23.720171" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7711-8-8"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 41.902706,111.99053 a 3.2740517,3.2740517 0 0 1 -3.274052,3.27405 3.2740517,3.2740517 0 0 1 -3.274051,-3.27405 3.2740517,3.2740517 0 0 1 3.274051,-3.27405 3.2740517,3.2740517 0 0 1 3.274052,3.27405 z" />
+        <path
+           inkscape:transform-center-y="16.714758"
+           inkscape:transform-center-x="12.999483"
+           sodipodi:nodetypes="cccccccc"
+           inkscape:connector-curvature="0"
+           d="m 36.125095,114.1253 c -2.54351,1.05664 -5.255873,3.15894 -7.374061,4.99391 -1.682312,1.63258 -3.579417,3.03203 -5.185518,4.74548 -2.280402,2.32881 -3.783386,5.24143 -5.338286,8.06919 -1.942597,2.33922 -2.60676,5.4084 -4.221947,7.88671 5.895188,2.93916 12.167499,4.30697 19.129623,2.80056 5.315754,-7.97998 4.959417,-18.09911 5.480652,-27.33242 -1.216716,-0.0657 -1.964966,-0.66956 -2.490463,-1.16343 z"
+           style="fill:#ff0000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path7713-9-3" />
+        <path
+           inkscape:transform-center-y="2.7738943"
+           inkscape:transform-center-x="-8.8994022"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           d="m 40.790155,114.3408 c 6.106245,5.541 7.453555,6.54849 9.262694,10.04712 0.721022,-3.38772 0.920358,-10.43437 -1.920293,-15.36204 -2.464111,-0.30996 -5.932695,0.61438 -6.753013,1.47739 0.721149,1.13652 0.858526,2.3997 -0.589388,3.83753 z"
+           style="fill:#0000ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path7715-9-6" />
+        <path
+           id="path7717-7-3"
+           style="fill:#ffff00;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 38.707398,108.77969 c -0.204657,-7.00266 0.529369,-7.57838 -1.954389,-10.682701 -7.420609,-3.185938 -14.712597,-2.447128 -19.43654,-0.24586 5.18222,1.94509 11.945654,4.513871 18.238232,12.786371 1.413512,-1.64737 1.631927,-1.74852 3.152697,-1.85781 z"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-x="6.8581998"
+           inkscape:transform-center-y="-8.8024278" />
+      </g>
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path7721-9-2"
+         d="m 461.40696,16.205939 c 1.45069,0.726732 2.63654,1.600603 3.28756,2.771597 0.70592,1.173381 0.26551,1.398497 -1.10526,3.469762 -1.42297,-1.850866 -3.31752,-3.37163 -5.63132,-4.598916 1.39433,-1.416442 1.89571,-2.235362 3.44902,-1.642439 z"
+         style="display:inline;fill:url(#radialGradient7913-4-5);fill-opacity:1;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter7555-5-4)" />
+      <rect
+         y="9.6908503"
+         x="441.42892"
+         height="47.719494"
+         width="47.719494"
+         id="rect7723-0-0"
+         style="display:inline;fill:none;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <g
+       style="display:inline"
+       id="g8418"
+       transform="translate(-0.76548364,38.742624)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\George\Documents\PygletGame\pygletProject\Assets\BeachBall.png">
+      <g
+         transform="rotate(91.592009,320.18825,321.34395)"
+         id="g7719-5-2-9"
+         style="display:inline;opacity:1">
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle7709-3-3-5"
+           cx="26.86879"
+           cy="119.6077"
+           r="23.720171" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7711-8-8-0"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 41.902706,111.99053 a 3.2740517,3.2740517 0 0 1 -3.274052,3.27405 3.2740517,3.2740517 0 0 1 -3.274051,-3.27405 3.2740517,3.2740517 0 0 1 3.274051,-3.27405 3.2740517,3.2740517 0 0 1 3.274052,3.27405 z" />
+        <path
+           inkscape:transform-center-y="16.714758"
+           inkscape:transform-center-x="12.999483"
+           sodipodi:nodetypes="cccccccc"
+           inkscape:connector-curvature="0"
+           d="m 36.125095,114.1253 c -2.54351,1.05664 -5.255873,3.15894 -7.374061,4.99391 -1.682312,1.63258 -3.579417,3.03203 -5.185518,4.74548 -2.280402,2.32881 -3.783386,5.24143 -5.338286,8.06919 -1.942597,2.33922 -2.60676,5.4084 -4.221947,7.88671 5.895188,2.93916 12.167499,4.30697 19.129623,2.80056 5.315754,-7.97998 4.959417,-18.09911 5.480652,-27.33242 -1.216716,-0.0657 -1.964966,-0.66956 -2.490463,-1.16343 z"
+           style="fill:#ff0000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path7713-9-3-4" />
+        <path
+           inkscape:transform-center-y="2.7738943"
+           inkscape:transform-center-x="-8.8994022"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           d="m 40.790155,114.3408 c 6.106245,5.541 7.453555,6.54849 9.262694,10.04712 0.721022,-3.38772 0.920358,-10.43437 -1.920293,-15.36204 -2.464111,-0.30996 -5.932695,0.61438 -6.753013,1.47739 0.721149,1.13652 0.858526,2.3997 -0.589388,3.83753 z"
+           style="fill:#0000ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path7715-9-6-9" />
+        <path
+           id="path7717-7-3-9"
+           style="fill:#ffff00;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 38.707398,108.77969 c -0.204657,-7.00266 0.529369,-7.57838 -1.954389,-10.682701 -7.420609,-3.185938 -14.712597,-2.447128 -19.43654,-0.24586 5.18222,1.94509 11.945654,4.513871 18.238232,12.786371 1.413512,-1.64737 1.631927,-1.74852 3.152697,-1.85781 z"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-x="6.8581998"
+           inkscape:transform-center-y="-8.8024278" />
+      </g>
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path7721-9-2-9"
+         d="m 526.1405,16.394858 c 1.45069,0.726732 2.63654,1.600603 3.28756,2.771597 0.70592,1.173381 0.26551,1.398497 -1.10526,3.469762 -1.42297,-1.850866 -3.31752,-3.37163 -5.63132,-4.598916 1.39433,-1.416442 1.89571,-2.235362 3.44902,-1.642439 z"
+         style="display:inline;fill:url(#radialGradient7913-4-5-7);fill-opacity:1;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter7555-5-4-3)" />
+      <rect
+         y="9.8797722"
+         x="506.16248"
+         height="47.719494"
+         width="47.719494"
+         id="rect7723-0-0-9"
+         style="display:inline;fill:none;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <g
+       style="display:inline"
+       id="g7837"
+       transform="translate(282.33756,47.955729)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\George\Documents\PygletGame\pygletProject\Assets\BeachBall.png">
+      <g
+         style="display:inline;opacity:1"
+         id="g7737"
+         transform="rotate(-28.40799,-162.36022,77.272399)">
+        <circle
+           r="23.720171"
+           cy="119.6077"
+           cx="26.86879"
+           id="circle7727"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           d="m 41.902706,111.99053 a 3.2740517,3.2740517 0 0 1 -3.274052,3.27405 3.2740517,3.2740517 0 0 1 -3.274051,-3.27405 3.2740517,3.2740517 0 0 1 3.274051,-3.27405 3.2740517,3.2740517 0 0 1 3.274052,3.27405 z"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path7729"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7731"
+           style="fill:#ff0000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 36.125095,114.1253 c -2.54351,1.05664 -5.255873,3.15894 -7.374061,4.99391 -1.682312,1.63258 -3.579417,3.03203 -5.185518,4.74548 -2.280402,2.32881 -3.783386,5.24143 -5.338286,8.06919 -1.942597,2.33922 -2.60676,5.4084 -4.221947,7.88671 5.895188,2.93916 12.167499,4.30697 19.129623,2.80056 5.315754,-7.97998 4.959417,-18.09911 5.480652,-27.33242 -1.216716,-0.0657 -1.964966,-0.66956 -2.490463,-1.16343 z"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccc"
+           inkscape:transform-center-x="12.999483"
+           inkscape:transform-center-y="16.714758" />
+        <path
+           id="path7733"
+           style="fill:#0000ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 40.790155,114.3408 c 6.106245,5.541 7.453555,6.54849 9.262694,10.04712 0.721022,-3.38772 0.920358,-10.43437 -1.920293,-15.36204 -2.464111,-0.30996 -5.932695,0.61438 -6.753013,1.47739 0.721149,1.13652 0.858526,2.3997 -0.589388,3.83753 z"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-x="-8.8994022"
+           inkscape:transform-center-y="2.7738943" />
+        <path
+           inkscape:transform-center-y="-8.8024278"
+           inkscape:transform-center-x="6.8581998"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           d="m 38.707398,108.77969 c -0.204657,-7.00266 0.529369,-7.57838 -1.954389,-10.682701 -7.420609,-3.185938 -14.712597,-2.447128 -19.43654,-0.24586 5.18222,1.94509 11.945654,4.513871 18.238232,12.786371 1.413512,-1.64737 1.631927,-1.74852 3.152697,-1.85781 z"
+           style="fill:#ffff00;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path7735" />
+      </g>
+      <path
+         style="fill:url(#radialGradient7911);fill-opacity:1;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter7555)"
+         d="m 20.35599,7.1817569 c 1.450692,0.7267326 2.636536,1.6006035 3.287559,2.771597 0.705924,1.1733811 0.26551,1.3984971 -1.105256,3.4697621 -1.422974,-1.850866 -3.317524,-3.37163 -5.631326,-4.5989161 1.394332,-1.4164422 1.895712,-2.2353615 3.44902,-1.642439 z"
+         id="path7739"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <rect
+         style="fill:none;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect7741"
+         width="47.719494"
+         height="47.719494"
+         x="0.37797621"
+         y="0.66666663" />
+    </g>
+    <g
+       style="display:inline"
+       id="g7827"
+       transform="translate(171.02357,47.955729)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\George\Documents\PygletGame\pygletProject\Assets\BeachBall.png">
+      <g
+         transform="rotate(-88.40799,-23.371958,73.435201)"
+         id="g7755"
+         style="display:inline;opacity:1">
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle7745"
+           cx="26.86879"
+           cy="119.6077"
+           r="23.720171" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7747"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 41.902706,111.99053 a 3.2740517,3.2740517 0 0 1 -3.274052,3.27405 3.2740517,3.2740517 0 0 1 -3.274051,-3.27405 3.2740517,3.2740517 0 0 1 3.274051,-3.27405 3.2740517,3.2740517 0 0 1 3.274052,3.27405 z" />
+        <path
+           inkscape:transform-center-y="16.714758"
+           inkscape:transform-center-x="12.999483"
+           sodipodi:nodetypes="cccccccc"
+           inkscape:connector-curvature="0"
+           d="m 36.125095,114.1253 c -2.54351,1.05664 -5.255873,3.15894 -7.374061,4.99391 -1.682312,1.63258 -3.579417,3.03203 -5.185518,4.74548 -2.280402,2.32881 -3.783386,5.24143 -5.338286,8.06919 -1.942597,2.33922 -2.60676,5.4084 -4.221947,7.88671 5.895188,2.93916 12.167499,4.30697 19.129623,2.80056 5.315754,-7.97998 4.959417,-18.09911 5.480652,-27.33242 -1.216716,-0.0657 -1.964966,-0.66956 -2.490463,-1.16343 z"
+           style="fill:#ff0000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path7749" />
+        <path
+           inkscape:transform-center-y="2.7738943"
+           inkscape:transform-center-x="-8.8994022"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           d="m 40.790155,114.3408 c 6.106245,5.541 7.453555,6.54849 9.262694,10.04712 0.721022,-3.38772 0.920358,-10.43437 -1.920293,-15.36204 -2.464111,-0.30996 -5.932695,0.61438 -6.753013,1.47739 0.721149,1.13652 0.858526,2.3997 -0.589388,3.83753 z"
+           style="fill:#0000ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path7751" />
+        <path
+           id="path7753"
+           style="fill:#ffff00;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 38.707398,108.77969 c -0.204657,-7.00266 0.529369,-7.57838 -1.954389,-10.682701 -7.420609,-3.185938 -14.712597,-2.447128 -19.43654,-0.24586 5.18222,1.94509 11.945654,4.513871 18.238232,12.786371 1.413512,-1.64737 1.631927,-1.74852 3.152697,-1.85781 z"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-x="6.8581998"
+           inkscape:transform-center-y="-8.8024278" />
+      </g>
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path7757"
+         d="m 20.35599,7.1817569 c 1.450692,0.7267326 2.636536,1.6006035 3.287559,2.771597 0.705924,1.1733811 0.26551,1.3984971 -1.105256,3.4697621 -1.422974,-1.850866 -3.317524,-3.37163 -5.631326,-4.5989161 1.394332,-1.4164422 1.895712,-2.2353615 3.44902,-1.642439 z"
+         style="fill:url(#radialGradient7909);fill-opacity:1;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter7555)" />
+      <rect
+         y="0.66666663"
+         x="0.37797621"
+         height="47.719494"
+         width="47.719494"
+         id="rect7759"
+         style="fill:none;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <g
+       style="display:inline"
+       id="g8770"
+       transform="translate(19.462869,44.889826)"
+       inkscape:export-filename="C:\Users\George\Documents\PygletGame\pygletProject\Assets\BeachBall.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         transform="rotate(-58.40799,46.798258,-109.36429)"
+         id="g7755-2"
+         style="display:inline;opacity:1">
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle7745-5"
+           cx="26.86879"
+           cy="119.6077"
+           r="23.720171" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7747-9"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 41.902706,111.99053 a 3.2740517,3.2740517 0 0 1 -3.274052,3.27405 3.2740517,3.2740517 0 0 1 -3.274051,-3.27405 3.2740517,3.2740517 0 0 1 3.274051,-3.27405 3.2740517,3.2740517 0 0 1 3.274052,3.27405 z" />
+        <path
+           inkscape:transform-center-y="16.714758"
+           inkscape:transform-center-x="12.999483"
+           sodipodi:nodetypes="cccccccc"
+           inkscape:connector-curvature="0"
+           d="m 36.125095,114.1253 c -2.54351,1.05664 -5.255873,3.15894 -7.374061,4.99391 -1.682312,1.63258 -3.579417,3.03203 -5.185518,4.74548 -2.280402,2.32881 -3.783386,5.24143 -5.338286,8.06919 -1.942597,2.33922 -2.60676,5.4084 -4.221947,7.88671 5.895188,2.93916 12.167499,4.30697 19.129623,2.80056 5.315754,-7.97998 4.959417,-18.09911 5.480652,-27.33242 -1.216716,-0.0657 -1.964966,-0.66956 -2.490463,-1.16343 z"
+           style="fill:#ff0000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path7749-5" />
+        <path
+           inkscape:transform-center-y="2.7738943"
+           inkscape:transform-center-x="-8.8994022"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           d="m 40.790155,114.3408 c 6.106245,5.541 7.453555,6.54849 9.262694,10.04712 0.721022,-3.38772 0.920358,-10.43437 -1.920293,-15.36204 -2.464111,-0.30996 -5.932695,0.61438 -6.753013,1.47739 0.721149,1.13652 0.858526,2.3997 -0.589388,3.83753 z"
+           style="fill:#0000ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path7751-4" />
+        <path
+           id="path7753-9"
+           style="fill:#ffff00;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 38.707398,108.77969 c -0.204657,-7.00266 0.529369,-7.57838 -1.954389,-10.682701 -7.420609,-3.185938 -14.712597,-2.447128 -19.43654,-0.24586 5.18222,1.94509 11.945654,4.513871 18.238232,12.786371 1.413512,-1.64737 1.631927,-1.74852 3.152697,-1.85781 z"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-x="6.8581998"
+           inkscape:transform-center-y="-8.8024278" />
+      </g>
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path7757-9"
+         d="m 227.57368,10.24766 c 1.45069,0.726733 2.63654,1.600604 3.28756,2.771597 0.70592,1.173381 0.26551,1.398497 -1.10526,3.469762 -1.42297,-1.850866 -3.31752,-3.37163 -5.63132,-4.598916 1.39433,-1.416442 1.89571,-2.2353614 3.44902,-1.642439 z"
+         style="fill:url(#radialGradient7909-9);fill-opacity:1;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter7555-1)" />
+      <rect
+         y="3.7325699"
+         x="207.59567"
+         height="47.719494"
+         width="47.719494"
+         id="rect7759-1"
+         style="fill:none;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <g
+       style="display:inline"
+       id="g7817"
+       transform="translate(115.36658,47.955729)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\George\Documents\PygletGame\pygletProject\Assets\BeachBall.png">
+      <g
+         style="display:inline;opacity:1"
+         id="g7773"
+         transform="rotate(-118.40799,-2.8206433,72.853895)">
+        <circle
+           r="23.720171"
+           cy="119.6077"
+           cx="26.86879"
+           id="circle7763"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           d="m 41.902706,111.99053 a 3.2740517,3.2740517 0 0 1 -3.274052,3.27405 3.2740517,3.2740517 0 0 1 -3.274051,-3.27405 3.2740517,3.2740517 0 0 1 3.274051,-3.27405 3.2740517,3.2740517 0 0 1 3.274052,3.27405 z"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path7765"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7767"
+           style="fill:#ff0000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 36.125095,114.1253 c -2.54351,1.05664 -5.255873,3.15894 -7.374061,4.99391 -1.682312,1.63258 -3.579417,3.03203 -5.185518,4.74548 -2.280402,2.32881 -3.783386,5.24143 -5.338286,8.06919 -1.942597,2.33922 -2.60676,5.4084 -4.221947,7.88671 5.895188,2.93916 12.167499,4.30697 19.129623,2.80056 5.315754,-7.97998 4.959417,-18.09911 5.480652,-27.33242 -1.216716,-0.0657 -1.964966,-0.66956 -2.490463,-1.16343 z"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccc"
+           inkscape:transform-center-x="12.999483"
+           inkscape:transform-center-y="16.714758" />
+        <path
+           id="path7769"
+           style="fill:#0000ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 40.790155,114.3408 c 6.106245,5.541 7.453555,6.54849 9.262694,10.04712 0.721022,-3.38772 0.920358,-10.43437 -1.920293,-15.36204 -2.464111,-0.30996 -5.932695,0.61438 -6.753013,1.47739 0.721149,1.13652 0.858526,2.3997 -0.589388,3.83753 z"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-x="-8.8994022"
+           inkscape:transform-center-y="2.7738943" />
+        <path
+           inkscape:transform-center-y="-8.8024278"
+           inkscape:transform-center-x="6.8581998"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           d="m 38.707398,108.77969 c -0.204657,-7.00266 0.529369,-7.57838 -1.954389,-10.682701 -7.420609,-3.185938 -14.712597,-2.447128 -19.43654,-0.24586 5.18222,1.94509 11.945654,4.513871 18.238232,12.786371 1.413512,-1.64737 1.631927,-1.74852 3.152697,-1.85781 z"
+           style="fill:#ffff00;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path7771" />
+      </g>
+      <path
+         style="fill:url(#radialGradient7907);fill-opacity:1;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter7555)"
+         d="m 20.35599,7.1817569 c 1.450692,0.7267326 2.636536,1.6006035 3.287559,2.771597 0.705924,1.1733811 0.26551,1.3984971 -1.105256,3.4697621 -1.422974,-1.850866 -3.317524,-3.37163 -5.631326,-4.5989161 1.394332,-1.4164422 1.895712,-2.2353615 3.44902,-1.642439 z"
+         id="path7775"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <rect
+         style="fill:none;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect7777"
+         width="47.719494"
+         height="47.719494"
+         x="0.37797621"
+         y="0.66666663" />
+    </g>
+    <g
+       style="display:inline"
+       id="g7807"
+       transform="translate(59.709584,47.955729)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\George\Documents\PygletGame\pygletProject\Assets\BeachBall.png">
+      <g
+         transform="rotate(-148.40799,12.082664,72.453315)"
+         id="g7791"
+         style="display:inline;opacity:1">
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle7781"
+           cx="26.86879"
+           cy="119.6077"
+           r="23.720171" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7783"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 41.902706,111.99053 a 3.2740517,3.2740517 0 0 1 -3.274052,3.27405 3.2740517,3.2740517 0 0 1 -3.274051,-3.27405 3.2740517,3.2740517 0 0 1 3.274051,-3.27405 3.2740517,3.2740517 0 0 1 3.274052,3.27405 z" />
+        <path
+           inkscape:transform-center-y="16.714758"
+           inkscape:transform-center-x="12.999483"
+           sodipodi:nodetypes="cccccccc"
+           inkscape:connector-curvature="0"
+           d="m 36.125095,114.1253 c -2.54351,1.05664 -5.255873,3.15894 -7.374061,4.99391 -1.682312,1.63258 -3.579417,3.03203 -5.185518,4.74548 -2.280402,2.32881 -3.783386,5.24143 -5.338286,8.06919 -1.942597,2.33922 -2.60676,5.4084 -4.221947,7.88671 5.895188,2.93916 12.167499,4.30697 19.129623,2.80056 5.315754,-7.97998 4.959417,-18.09911 5.480652,-27.33242 -1.216716,-0.0657 -1.964966,-0.66956 -2.490463,-1.16343 z"
+           style="fill:#ff0000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path7785" />
+        <path
+           inkscape:transform-center-y="2.7738943"
+           inkscape:transform-center-x="-8.8994022"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           d="m 40.790155,114.3408 c 6.106245,5.541 7.453555,6.54849 9.262694,10.04712 0.721022,-3.38772 0.920358,-10.43437 -1.920293,-15.36204 -2.464111,-0.30996 -5.932695,0.61438 -6.753013,1.47739 0.721149,1.13652 0.858526,2.3997 -0.589388,3.83753 z"
+           style="fill:#0000ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path7787" />
+        <path
+           id="path7789"
+           style="fill:#ffff00;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 38.707398,108.77969 c -0.204657,-7.00266 0.529369,-7.57838 -1.954389,-10.682701 -7.420609,-3.185938 -14.712597,-2.447128 -19.43654,-0.24586 5.18222,1.94509 11.945654,4.513871 18.238232,12.786371 1.413512,-1.64737 1.631927,-1.74852 3.152697,-1.85781 z"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-x="6.8581998"
+           inkscape:transform-center-y="-8.8024278" />
+      </g>
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path7793"
+         d="m 20.35599,7.1817569 c 1.450692,0.7267326 2.636536,1.6006035 3.287559,2.771597 0.705924,1.1733811 0.26551,1.3984971 -1.105256,3.4697621 -1.422974,-1.850866 -3.317524,-3.37163 -5.631326,-4.5989161 1.394332,-1.4164422 1.895712,-2.2353615 3.44902,-1.642439 z"
+         style="fill:url(#radialGradient7905);fill-opacity:1;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter7555)" />
+      <rect
+         y="0.66666663"
+         x="0.37797621"
+         height="47.719494"
+         width="47.719494"
+         id="rect7795"
+         style="fill:none;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+  </g>
+</svg>
